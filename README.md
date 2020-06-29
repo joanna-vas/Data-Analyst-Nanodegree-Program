@@ -5,6 +5,6 @@
 
 Analyse local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
-* **Investigate IMDb Movie Data:**
+* **Investigate TMDb Movie Data:**
 
-Analyze the IMDb Movie dataset and communicate your findings about it. Use Python libraries NumPy, pandas, and Matplotlib.
+Analyze the TMDb Movie dataset and communicate your findings about it. Use Python libraries NumPy, pandas, and Matplotlib.
